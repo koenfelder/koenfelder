@@ -16,7 +16,7 @@ Bachelor of Science (BS)
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1_kNf5Z5fa1ErS7cHgwa6qbaTd79nfmo2ZQ6yucWAVfg/edit?usp=sharing">Portfolio</a> •
-  <a href="https://linkedin.com/in/koenfelder">LinkedIn</a> •
+  <a href="https://https://linkedin.com/in/koen-felder-59682829a/">LinkedIn</a> •
   <a href="mailto:koenfelder@gmail.com">Email</a>
 </p>
 
