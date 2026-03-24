@@ -9,9 +9,7 @@
 
 - I ❤️ coding
 
-- Graphic Information Technology
-Arizona State University, Tempe, Arizona
-Bachelor of Science (BS)
+
 
   
 
