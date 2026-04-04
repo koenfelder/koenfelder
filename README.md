@@ -1,24 +1,16 @@
-
-
-<div align="center">
-
 # Hi there, I'm Koen Felder 👋
 ### 🚀 Full Stack Web Developer | Tech Enthusiast | Blending Logic With Strategy to Build Intuitive, Scalable Web Experiences
 
-  About me
+About me
 
 - I ❤️ coding
 
+### 📞 Contact Information
+- **Phone:** [602-796-6240](tel:yourphone)
+- **LinkedIn:** [Koen Felder](www.linkedin.com/in/koen-felder-59682829a)
+- **Website:** [Your Website](https://ais-dev-hhw22q5kqjxmf5fr5lowgl-327551791478.us-west2.run.app)
+- **Email:** [koenfelder@gmail.com](mailto:koenfelder@gmail.com)
 
-
-  
-
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1_kNf5Z5fa1ErS7cHgwa6qbaTd79nfmo2ZQ6yucWAVfg/edit?usp=sharing">Portfolio</a> •
-  <a href="https:www.linkedin.com/in/koen-felder-59682829a">LinkedIn</a> •
-  <a href="mailto:koenfelder@gmail.com">Email</a>
-</p>
 
 ---
 
@@ -32,29 +24,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
-
-
 ---
 
 ### 📊 My GitHub Stats
-<div align="center">
 
 | **GitHub Stats** | **Most Used Languages** |
-| :---: | :---: |
-| ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) | ![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) |
+| :--- | :--- |
+| ![Stats Card](https://github-readme-stats.vercel.app/api?username=koenfelder&show_icons=true&theme=radical) | ![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=koenfelder&layout=compact&theme=radical) |
 
-<br />
+![Streak Card](https://streak-stats.demolab.com/?user=koenfelder&theme=radical)
 
-![Streak Card](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+---
 
-</div>
-
-
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
