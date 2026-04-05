@@ -3,7 +3,7 @@
 
 About me
 
-- I ❤️ coding
+- Based in Phoenix, Arizona
 
 ### 📞 Contact Information
 - **Phone:** [602-796-6240](tel:yourphone)
